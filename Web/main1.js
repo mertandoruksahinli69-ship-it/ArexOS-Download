@@ -1,0 +1,1 @@
+console.log("ArexOS Desktop 64 bit (AMD or INTEL)")
